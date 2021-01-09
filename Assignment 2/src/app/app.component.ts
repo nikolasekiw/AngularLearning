@@ -8,9 +8,4 @@ import { Component } from '@angular/core';
 export class AppComponent {
   username = 'Nikola';
   disabled = false;
-
-  trykk () {
-
-  }
-
 }
